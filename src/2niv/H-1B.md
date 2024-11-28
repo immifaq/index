@@ -3,6 +3,7 @@
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
 |:------|:------:|------:|------:|------:|
 | 30 | 10 Mistakes to avoid as an Employment-Based Visa Beneficiary. | Rebecca Chen | October 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1855819260116730205) |
+| 506 | H-1B extension can normally be filed 180 days before expiration, is there a way to file it earlier, if yes, on what basis? Can H-4 and H-4 EAD be filed along with that H-1B? | Emily Neumann | November 26th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862236262478094524) [Instagram](https://www.instagram.com/p/DC7cJB2i8i9/) |
 | 382 | What is Concurrent Employment on H-1B? What is Concurrent H-1B? | Emily Neumann | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858335659934539901) |
 | 335 | Switching from H-1B to H4 (and H-4 EAD) and back to H-1B in the future. Can I be a beneficiary of an I-140 petition while on H-4 status? | Rahul Reddy | July 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858310129994940670) |
 | 32 | Filing H1B Transfer Without Paystubs: Is It Possible? | Rebecca Chen | October 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1855823000718737773) |
@@ -118,3 +119,4 @@
 | 493 | My I-94 and H-1B visa expire March 2025, but my H-1B petition I-797 is valid until February 2026. Am I authorized to work on H-1B after March 2025? | Emily Neumann | November 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1861241247832170827) [Instagram](https://www.instagram.com/p/DC0WQepC_sw/) |
 | 494 | If I have an H-1B from Company A and then Company B acquired Company A, can I travel with Company A's H-1B and Company B's offer letter? | Emily Neumann | November 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1861237791201312836) [Instagram](https://www.instagram.com/p/DC0WU3UCcZk/) |
 | 500 | Can someone on H-1B stay in USA for more than 60 days without being employed/on payroll? | Rajiv S. Khanna | November 20th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1861254758847123592) [Instagram](https://www.instagram.com/p/DC0eztBiwBO/) |
+| 508 | My H-1B transfer to new employer is pending since 130 days and I have been working for new employer on receipt notice, should I request an upgrade to premium processing? | Emily Neumann | November 26th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862236116872581427) [Instagram](https://www.instagram.com/p/DC7dYpji5f4/) |

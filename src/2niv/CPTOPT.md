@@ -11,6 +11,7 @@
 | 417 | Unemployment Period/Days allowed on F-1 OPT and F-1 STEM OPT. | Rahul Reddy | February 18th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858737267809894710) |
 | 458 | Is obtaining an offer letter from a IT body shop to stop the OPT/STEM OPT unemployment period a willful misrepresentation for immigration purposes? | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881007412478329) [Instagram](https://www.instagram.com/p/DCx1Dg4iBlD/) |
 | 472 | How long can one on F-1 OPT stay outside USA? | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860890358101549220) [Instagram](https://www.instagram.com/p/DCx7djCiC89/) |
+| 503 | Travel risks for F-1 students on OPT with pending PERM application. | Rajiv S. Khanna | November 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862224980387287458) [Instagram](https://www.instagram.com/p/DC7XlZkioNL/) |
 
 
 # F-1 STEM OPT
