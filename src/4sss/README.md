@@ -23,6 +23,7 @@
 | 331 | My passport is expiring soon, employer about to file H-1B extension, will I get I-94 validity for full H-1B period or until the passport expiry date? | Rebecca Chen | July 23rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858299557882233143) |
 | 431 | I-94 has been expired and H-1B petition has been denied, can I change status to B-2 and change back to H-1B later? Why is it important to get a decision of extension application before I-94 expire? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755172719046729) |
 | 493 | My I-94 and H-1B visa expire March 2025, but my H-1B petition I-797 is valid until February 2026. Am I authorized to work on H-1B after March 2025? | Emily Neumann | November 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1861241247832170827) [Instagram](https://www.instagram.com/p/DC0WQepC_sw/) |
+| 520 | I-94 not updated as per the latest approved I-797A after my travel, what are my options? | Rajiv S. Khanna | December 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868499342476337269) [Instagram](https://www.instagram.com/p/DDn857_ijO4/) |
 
 
 ## DUI/DWI

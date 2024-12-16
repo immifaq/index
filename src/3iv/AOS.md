@@ -3,6 +3,8 @@
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
 |:------|:------:|------:|------:|------:|
 | 385 | Do I have 60-days of grace period on GC EAD? | Rahul Reddy | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858336964916760864) |
+| 521 | Automatic EAD Extension: Up to 540 Days for AOS EAD and H-4 EAD. | Rahul Reddy | December 10th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868505570182885624) [Instagram](https://www.instagram.com/p/DDn-TcKC8QI/) |
+| 523 | Advance Parole I-94: What to Do If It’s Valid for Only One Year? | Rahul Reddy | December 10th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868505669521096990) [Instagram](https://www.instagram.com/p/DDn_zf0iMj0/) |
 | 368 | How does the USCIS prioritize or process the I-485 applications? | Emily Neumann | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858325071359770848) |
 | 357 | Entrepreneurship on AOS EAD - things you need to be aware of? | Emily Neumann | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858326048749801848) |
 | 262 | What is AC-21 Portability for I-485 purposes? Can promotion be achieved through AC-21 portability? | Rajiv S. Khanna | August 24th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857826902972543241) |

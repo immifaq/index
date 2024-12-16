@@ -16,7 +16,6 @@
 | 44 | Legal gambling on an Employment based Non-Immigrant Visa - is it allowed or is it an immigration violation? | Rahul Reddy | October 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1855836001853211077) |
 
 
-
 ## General Immigration (DS-160, US Visa, myUSCIS)
 
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
@@ -45,3 +44,7 @@
 | 446 | US Consulate that issued the H-1B VISA sent an email to me that my visa is revoked, is this expected? | Emily Neumann | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860872053340995790) [Instagram](https://www.instagram.com/p/DCxwBM-CqNC/) |
 | 449 | Am I required to carry the I-129 petition copy to the US Consulate for the VISA interview appointment? | Emily Neumann | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860874731836031187) [Instagram](https://www.instagram.com/p/DCxw_SECg2T/) |
 | 462 | Can I request USCIS to transfer the case that is pending approval (I-539 application) to a different USCIS Service Center?  | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860880646052147463) [Instagram](https://www.instagram.com/p/DCx1gRviqDV/) |
+| 514 | Can I get my visa stamped as a third country national in any other country other than Canada and Mexico? | Rahul Reddy | December 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868495895370617049) [Instagram](https://www.instagram.com/p/DDn7N-GiJxk/) |
+| 515 | Does the staff at the US Embassies change with the new administration? Why does scrutiny increase with the new administration? | Emily Neumann and Rahul Reddy | December 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868496549283856450) [Instagram](https://www.instagram.com/p/DDn7Uj2io-D/) |
+| 522 | EB-5 Priority Dates: Backlogs for Indians and Other Nationalities Expected? | Emily Neumann | December 10th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868505618559942957) [Instagram](https://www.instagram.com/p/DDn_tVXCeF8/) |
+| 525 | My old passport has expired but the visa on the old passport is valid, can I travel with new passport and visa from/on the old passport? | Emily Neumann | December 10th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868506902952648891) [Instagram](https://www.instagram.com/p/DDoAbYviUHx/) |

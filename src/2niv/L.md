@@ -13,6 +13,7 @@
 | 130 | L-1B blanket extension (consular processing) vs. L-1B individual extension (extension of stay in USA) - which is better? | Emily Neumann | October 1st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856508333592555539) |
 | 271 | Can a company, which a person previously worked for while in India, file L-1 when the person is in USA studying on a F-1 Visa? | Rajiv S. Khanna | August 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857844231932411911) |
 | 466 | Can L-1B category change to H-1B or other non-immigrant visa category? What to remember when changing from L-1B to H-1B? | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860894172791640530) [Instagram](https://www.instagram.com/p/DCx4OhtCuyD/) |
+| 519 | Can I hold both H-1B and L-1B visas and work on both status concurrently? What happens to L-1B if H-1B is approved? | Rajiv S. Khanna | December 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868499261182050658) [Instagram](https://www.instagram.com/p/DDn81ziiqgL/) |
 
 # L-2
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
