@@ -64,6 +64,7 @@
 | 344 | Dependent child’s Change of Status from H-4 to F-1 has been applied and afterwards primary H-1B has been laid off or extension has been denied, should I file B-2 for dependent child along with the parent’s B-2 application?  | Emily Neumann | July 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858308661845643553) |
 | 356 | I am on H-1B with I-140 that has been approved for more than 6 months and lost my job, can I change my status to B-2? Will I face any issues? | Emily Neumann | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858326383438766136) |
 | 433 | Grace Period - how many instances of grace period can I get? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755424448606414) |
+| 540 | Impact of H-1B to B-1/B-2 CoS denial. | Rajiv S. Khanna | December 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873587485152055569) [Instagram](https://www.instagram.com/p/DEMGzH7iPWr/) |
 
 
 ## Dependent Children Related
@@ -145,3 +146,6 @@
 | 465 | Rajiv S. Khanna's opinion about the future of US job market. | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860894101324845341) [Instagram](https://www.instagram.com/p/DCx4KZhCbLL/) |
 | 471 | Rajiv S. Khanna's opinion on Trump's Day One Executive Order - No Citizenship by Birth for Non-Immigrant's Kids. | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860894654041911702) [Instagram](https://www.instagram.com/p/DCx7Y68i_rC/) |
 | 64 | Can Donald Trump End the H-4 EAD Program in 2025? What to Expect? | Rebecca Chen | October 15th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856120774504964257) |
+| 547 | Rajiv S. Khanna's opinion on US universities urging international students to return to campus before Trump inauguration. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601857609986526) [Instagram](https://www.instagram.com/p/DEMKeUfiFXm/) |
+| 548 | Rajiv S. Khanna's opinion on traveling on F-1 OPT during Trump administration. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601903390822882) [Instagram](https://www.instagram.com/p/DEMK3j5iVsZ/) |
+| 551 | Rajiv S. Khanna's opinion on extreme vetting for students on F-1 during Trump administration. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873608790165369231) [Instagram](https://www.instagram.com/p/DEMMeftC9ae/) |

@@ -12,6 +12,7 @@
 | 458 | Is obtaining an offer letter from a IT body shop to stop the OPT/STEM OPT unemployment period a willful misrepresentation for immigration purposes? | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881007412478329) [Instagram](https://www.instagram.com/p/DCx1Dg4iBlD/) |
 | 472 | How long can one on F-1 OPT stay outside USA? | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860890358101549220) [Instagram](https://www.instagram.com/p/DCx7djCiC89/) |
 | 503 | Travel risks for F-1 students on OPT with pending PERM application. | Rajiv S. Khanna | November 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862224980387287458) [Instagram](https://www.instagram.com/p/DC7XlZkioNL/) |
+| 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
 
 
 # F-1 STEM OPT
@@ -43,9 +44,11 @@
 | 139 | My CAP (lottery) based H-1B petition has been filed in June and still pending after October 1st, what to be aware of? | Rahul Reddy | October 1st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856510220710646142) |
 | 149 | Working on F-1 CAP-GAP Authorization and my H-1B is still pending approval as of October 1st: What should I be aware of? | Emily Neumann | September 24th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856902249252851723) |
 | 391 | I am on F-1 STEM OPT valid till June and was selected in the H-1B lottery, as my H-1B starts from October 1st, can I work till October without leaving the USA? | Emily Neumann | April 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858351598034100366) |
+| 533 | Steven Brown's opinion on Modernizing H-1B Requirements final rule - proposed changes to Automatic Extension of Authorized Employment of CAP-GAP. | Steven Brown | December 17th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1869620538521620482) [Instagram](https://www.instagram.com/p/DDv6XbKi1H5/) |
 
 
 # F-1 CPT
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
 |:------|:------:|------:|------:|------:|
 | 60 | When will student on F-1 become eligible for CPT (Circular Practical Training)? | Rajiv S. Khanna | October 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856009059876352503) |
+| 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |

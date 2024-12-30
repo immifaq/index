@@ -7,6 +7,7 @@
 | 248 | Can a student on F-1 work for more than 20 hours for on-campus employment? | Rajiv S. Khanna | August 31st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857685598514876513) |
 | 329 | Should I go out of the country to change my status from H-4 to F-1 or can I change my status while staying in USA? | Rahul Reddy | July 23rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858299974888693998) |
 | 371 | I am pursuing part-time Ph.D while workin on H-1B but I have lost my job. I got an I-120 to purse full-time Ph.D, If I move to F-1, can I move back to H-1B at a later date? | Emily Neumann | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858333786787725466) |
+| 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
 
 # F-2
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |

@@ -21,3 +21,4 @@
 |:------|:------:|------:|------:|------:|
 | 34 | My Naturalization Oath Ceremony doesn't specify if I can bring along my family and friends, can I bring them with me? | Rahul Reddy | October 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1855823215009886389) |
 | 436 | US Citizen Child is applying for parent’s Green Card, can the parents travel to USA on B-1/B-2 while Green Card application is pending with USCIS? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755842004156517) |
+| 539 | Impact of frequent job change on US Naturalization. | Rajiv S. Khanna | December 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873587558812410297) [Instagram](https://www.instagram.com/p/DEMGsA1iKmW/) |
