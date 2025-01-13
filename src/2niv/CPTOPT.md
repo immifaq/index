@@ -13,6 +13,7 @@
 | 472 | How long can one on F-1 OPT stay outside USA? | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860890358101549220) [Instagram](https://www.instagram.com/p/DCx7djCiC89/) |
 | 503 | Travel risks for F-1 students on OPT with pending PERM application. | Rajiv S. Khanna | November 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862224980387287458) [Instagram](https://www.instagram.com/p/DC7XlZkioNL/) |
 | 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
+| 558 | Emily Neumann & Rahul Reddy's opinion on impact of FDNS Site Visits for F-1 OPT & F-1 STEM OPT. | Emily Neumann & Rahul Reddy | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878674607328424446) [Instagram](https://www.instagram.com/p/DEwR0BdiON0/) |
 
 
 # F-1 STEM OPT
@@ -36,6 +37,7 @@
 | 440 | FMLA (Family and Medical Leave Act) on F-1 STEM OPT - is it allowed or counted towards the unemployment period? | Emily Neumann | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860871371514843375) [Instagram](https://www.instagram.com/p/DCxunftCywl/) |
 | 458 | Is obtaining an offer letter from a IT body shop to stop the OPT/STEM OPT unemployment period a willful misrepresentation for immigration purposes? | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881007412478329) [Instagram](https://www.instagram.com/p/DCx1Dg4iBlD/) |
 | 469 | Can an external HR or Professional Employer Organization sign on I-983 for STEM OPT purposes? | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860890247506075923) [Instagram](https://www.instagram.com/p/DCx7NNsC-NY/) |
+| 558 | Emily Neumann & Rahul Reddy's opinion on impact of FDNS Site Visits for F-1 OPT & F-1 STEM OPT. | Emily Neumann & Rahul Reddy | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878674607328424446) [Instagram](https://www.instagram.com/p/DEwR0BdiON0/) |
 
 # F-1 CAP-GAP 
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |

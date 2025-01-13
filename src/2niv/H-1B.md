@@ -25,6 +25,10 @@
 | 312 | Why doesn’t USCIS revoke the H-1Bs that were obtained by fraud of filing multiple applications and gaming the lottery system? | Rahul Reddy | August 6th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858030010310783331) |
 | 393 | What are the risks involved with working on H-1B Receipt Notice? | Rahul Reddy | April 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858347746572247242) |
 | 426 | How are the H-1B dependents (H-4) impacted when H-1B primary applicant is affected with a life event? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858746069728768358) |
+| 556 | Emily Neumann's opinion on misinformation regarding H-1B program on X platform (formerly Twitter). | Emily Neumann | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878672660051394814) [Instagram](https://www.instagram.com/p/DEwQJeQiqIh/) |
+| 560 | Rajiv S. Khanna's opinion on debate regarding H-1B program on X platform (formerly Twitter). | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682525775843432) [Instagram](https://www.instagram.com/p/DEwTYuOCqPR/) |
+| 561 | Rajiv S. Khanna's opinion on Modernizing H-1B Requirements final rule - FDNS Site Visit. | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682571535720792) [Instagram](https://www.instagram.com/p/DEwURgKiY77/) |
+
 
 ## Scenario Based
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
@@ -138,3 +142,4 @@
 | 544 | Rajiv S. Khanna's opinion on Modernizing H-1B Requirements final rule - H-1B specialty occupation. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873594905232322886) [Instagram](https://www.instagram.com/p/DEMIxA6iXCG/) |
 | 546 | Rajiv S. Khanna's opinion on Modernizing H-1B Requirements final rule - comparing with existing policies. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601803448975401) [Instagram](https://www.instagram.com/p/DEMJz2SiZj5/) |
 | 553 | Rajiv S. Khanna's opinion on Modernizing H-1B Requirements final rule - H-1B specialty occupation degree relevancy. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873608885057319168) [Instagram](https://www.instagram.com/p/DEMNuZliGo7/) |
+| 562 | How does the FDNS Site Visit impact the outcome of the H-1B petition application's decision? | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682624690151514) [Instagram](https://www.instagram.com/p/DEwVY8oixK_/) |
