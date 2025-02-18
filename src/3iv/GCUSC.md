@@ -15,6 +15,7 @@
 | 430 | Do I need I-485 approval notice? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858746331495374946) |
 | 444 | I and my spouse's Green Card is approved but my children have aged out, one of the child is on H-1B and another child is on F-1, can we file an I-130 in F2B category for both of them? | Rahul Reddy | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860871807043097048) [Instagram](https://www.instagram.com/p/DCxv46iCNm4/) |
 | 456 | Re-entering the USA on a Green Card after more than year stay abroad. | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881201197658211) [Instagram](https://www.instagram.com/p/DCx06MBil58/) |
+| 616 | When can I change jobs/employer after my Green Card has been approved? Should I work for the same job/employer for at-least 6 months? | Rajiv S. Khanna | January 30th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887376040881701298) [Instagram](https://www.instagram.com/p/DFuCe-kCT6C/) |
 
 # US Citizenship or Naturalization
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
@@ -22,3 +23,4 @@
 | 34 | My Naturalization Oath Ceremony doesn't specify if I can bring along my family and friends, can I bring them with me? | Rahul Reddy | October 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1855823215009886389) |
 | 436 | US Citizen Child is applying for parent’s Green Card, can the parents travel to USA on B-1/B-2 while Green Card application is pending with USCIS? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755842004156517) |
 | 539 | Impact of frequent job change on US Naturalization. | Rajiv S. Khanna | December 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873587558812410297) [Instagram](https://www.instagram.com/p/DEMGsA1iKmW/) |
+| 604 | Relocating to India with Green Card, how to apply for US Citizenship? | Rajiv S. Khanna | January 23rd, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887356230479294550) [Instagram](https://www.instagram.com/p/DFt64DOihxQ/) |

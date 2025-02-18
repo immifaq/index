@@ -26,6 +26,8 @@
 | 223 | I am filing my I-485 and I-131 (Advance Parole) and If I were to leave USA after the filing, will USCIS deny my I-131 application? | Rebecca Chen | September 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857669070822220148) |
 | 229 | Laid off when I-485 is pending with USCIS, what are my options? Do I get 60 days Grace Period? | Rahul Reddy | September 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857670401368690810) |
 | 430 | Do I need I-485 approval notice? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858746331495374946) |
+| 625 | Do I get an I-94 record when I enter USA on Advance Parole? | Steven Brown | February 4th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887384020826165678) [Instagram](https://www.instagram.com/p/DFuIBpfCaKf/) |
+| 636 | If USCIS says to use the Final Action Dates chart to file the AOS, what is the point of having a different Date of Filing chart? | Steven Brown | February 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1889562475802116480) [Instagram](https://www.instagram.com/p/DF9nWANCirf/) |
 
 ## Scenario Based
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
@@ -76,3 +78,4 @@
 | 502 | Priority Date is current but the employer that filed my I-140 is not wiling to file I-485 Supplement J, I-765 and I-131 (advance Parole). Can I self file these 3 forms and add a I-485 Supplement J from another employer after 6 months? | Rajiv S. Khanna | November 20th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1861254962895819247) [Instagram](https://www.instagram.com/p/DC0fc59ibwT/) |
 | 534 | Can I enter USA on Advance Parole and my spouse enter on H-1B together with me? | Rahul Reddy | December 17th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1869620600127492568) [Instagram](https://www.instagram.com/p/DDv6yocCo-_/) |
 | 557 | If I lost the Advance Parole while mailing it internationally, should I re-apply for I-131 (Advance Parole)? | Emily Neumann | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878672724937359569) [Instagram](https://www.instagram.com/p/DEwRBj4ibcD/) |
+| 566 | I am on H-1B and filed a family based AOS which is pending with USCIS, can I travel out of USA and return back on H-1B? will the travel have an impact on the processing of the pending AOS and AP? | Rahul Reddy | January 14th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882649631747641373) [Instagram](https://www.instagram.com/p/DFMe076Curm/) |

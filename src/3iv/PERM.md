@@ -22,7 +22,12 @@
 | 370 | If I switch a job after 6 months of I-140 approval, should the new job be in the same/similar profession? | Rahul Reddy | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858333585855352851) |
 | 392 | Can I do anything about the H-4 or H-4 EAD applications still pending to be approved when both H-4 and H-4 EAD has been filed concurrently along with H-1B and in Premium Processing? | Emily Neumann | April 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858343961712013665) |
 | 397 | Can a person be a beneficiary of PERM and I-140 while being on H-4 or F-1 status in USA? | Rahul Reddy | April 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858344609711014239) |
-
+| 567 | Can my present employer recapture my old Priority Date from previous company even if the previous company withdrew the PERM and I-140 petition? | Rahul Reddy | January 14th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882649709925544153) [Instagram](https://www.instagram.com/p/DFMe8raiPGO/) |
+| 578 | Changing employer after I-140 approval, what is the 180 days rule for I-140? | Rajiv S. Khanna | January 16th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882656636852117893) [Instagram](https://www.instagram.com/p/DFMiyUgCQNV/) |
+| 595 | Are the beneficiaries of I-140 petition still considered as "temporary" for legal immigration purposes? | Emily Neumann | January 21st, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882670121292120152) [Instagram](https://www.instagram.com/p/DFMong8i7qX/) |
+| 601 | I am on 6th year of my H-1B with I-140 approved recently with the current employer. Can I transfer to a different employer before 180 days with the current employer? | Rajiv S. Khanna | January 22nd, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882675886022893688) [Instagram](https://www.instagram.com/p/DFMq8d3CgB2/) |
+| 602 | Can USICS revoke the I-140 before 180 days even if the employer did not request for a withdrawal or no fraud was found in the application? | Rajiv S. Khanna | January 22nd, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882675928100409731) [Instagram](https://www.instagram.com/p/DFMrAQiCnxF/) |
+| 614 | On my sixth year of H-1B with I-140 approved recently, can a new employer apply for my H-1B if I am laid off before 180 days with the current employer? | Rajiv S. Khanna | January 29th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887369510820196832) [Instagram](https://www.instagram.com/p/DFuBAdsi7Fp/) |
 
 
 ## Scenario Based
@@ -87,3 +92,5 @@
 | 337 | Company filed PERM in EB-3 category that required bachelor’s + 2 years of experience, I had 5 years experience at that time and now I have been promoted, can I use the same PERM to file an I-140 in EB-2? | Emily Neumann | July 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858309780663599395) |
 | 345 | My employer is going to file for PERM, can I change my employer now? | Rahul Reddy | July 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858308398409781477) |
 | 457 | Difference between H-1B LCA Prevailing Wage and PERM Prevailing Wage. | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881101167661218) [Instagram](https://www.instagram.com/p/DCx0-bNCFsO/) |
+| 572 | The prevailing wage for my future role is much higher than my current salary for PERM purposes, will this difference be an issue for the PERM approval? | Rajiv S. Khanna | January 15th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882651661937807815) [Instagram](https://www.instagram.com/p/DFMgfeZiIas/) |
+| 617 | US-based Employer A filed PERM, but, I accepted offer to work for non-US based Employer B for couple of years. Will working for Employer B impact PERM and I-140 with Employer A? | Rajiv S. Khanna | January 30th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887376079339298992) [Instagram](https://www.instagram.com/p/DFuDx99iEFF/) |

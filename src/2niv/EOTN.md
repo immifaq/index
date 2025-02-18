@@ -9,6 +9,7 @@
 | 53 | Does obtaining a Ph.D degree increase the chances of obtaining O-1 visa or getting qualified for EB-1 category? | Rajiv S. Khanna | October 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856007575449248229) |
 | 116 | Pros and Cons of O-1 over H-1B. | Rajiv S. Khanna | October 2nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856486363220070840) |
 | 550 | Rajiv S. Khanna's opinion on Modernizing H-1B Requirements final rule - H-1B vs O-1A for startup founders. | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601999134216399) [Instagram](https://www.instagram.com/p/DEMMZhbCyeK/) |
+| 627 | Rajiv S. Khanna explaining the requirements for Talent Visas (EB-1A, O-1 and NIW). | Rajiv S. Khanna | February 5th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1888631256813826205) [Instagram](https://www.instagram.com/p/DF26bNvi_aN/) |
 
 
 # TN

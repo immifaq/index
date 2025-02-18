@@ -5,6 +5,7 @@
 | 178 | I am on 5th year of L-1A, employer is in the process of filing I-140 in EB-1. What are my options? Consider moving to H-1B or leave to India? | Rahul Reddy | September 17th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856925628181758027) |
 | 228 | I am on L-1A in the USA, should my employer file an I-140 in EB-1C category with-in 3 years? | Rahul Reddy | September 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857670202139324443) |
 | 435 | My EB-1C I-485 has been filed and EAD has been approved so I changed from L-1A to EAD due to L-1A maxing out, can I change my job? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755700043702352) |
+| 564 | Can a beneficiary of L-1A be enrolled and approved in a H-1B lottery? | Rajiv S. Khanna | January 9th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1882645883868819726) [Instagram](https://www.instagram.com/p/DFMd-wzi2wV/) |
 
 # L-1B
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |

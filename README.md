@@ -18,7 +18,7 @@ Please email feedback, suggestions or concerns to immifaq@gmail.com
 
 ### Disclaimer
 
-1. We DO NOT own any of the videos/clips, all the videos/clips belong to their respective owners and have been taken from the source mentioned on the video/clip.
+1. We DO NOT own any of the videos/clips, all the videos/clips belong to their respective owners and have been taken from the YouTube channel of the respective source mentioned on the video/clip.
 
 2. These videos/clips are NOT to be treated as AN IMMIGRATION ADVICE as a Attorney-Client relationship has not been established and full facts of your case/issue are not known. These videos/clips are ONLY FOR GENERAL INFORMATION purpose and could be an ATTORNEY ADVERTISING.
 
@@ -66,5 +66,4 @@ Immigration.com - US Immigration Free Community Conference Calls [Procedure](htt
 	- [DUI/DWI](src/4sss/README.md)
 	- [Emergency Travel](src/4sss/README.md)
 	- [Lay Off/Job Loss](src/4sss/README.md)
-	- [Dependent Related](src/4sss/README.md)
-	- [Donald J. Trump's New Administration (2025 - 2029)](src/4sss/README.md)
+	- [Dependent Children Related](src/4sss/README.md)

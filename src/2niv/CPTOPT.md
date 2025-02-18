@@ -14,6 +14,7 @@
 | 503 | Travel risks for F-1 students on OPT with pending PERM application. | Rajiv S. Khanna | November 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862224980387287458) [Instagram](https://www.instagram.com/p/DC7XlZkioNL/) |
 | 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
 | 558 | Emily Neumann & Rahul Reddy's opinion on impact of FDNS Site Visits for F-1 OPT & F-1 STEM OPT. | Emily Neumann & Rahul Reddy | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878674607328424446) [Instagram](https://www.instagram.com/p/DEwR0BdiON0/) |
+| 613 | Can a person work as a 1099 employee on F-1 OPT or F-1 STEM OPT? | Rajiv S. Khanna | January 29th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887369464817049952) [Instagram](https://www.instagram.com/p/DFt__Rzir8N/) |
 
 
 # F-1 STEM OPT
@@ -38,6 +39,8 @@
 | 458 | Is obtaining an offer letter from a IT body shop to stop the OPT/STEM OPT unemployment period a willful misrepresentation for immigration purposes? | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881007412478329) [Instagram](https://www.instagram.com/p/DCx1Dg4iBlD/) |
 | 469 | Can an external HR or Professional Employer Organization sign on I-983 for STEM OPT purposes? | Rajiv S. Khanna | November 9th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860890247506075923) [Instagram](https://www.instagram.com/p/DCx7NNsC-NY/) |
 | 558 | Emily Neumann & Rahul Reddy's opinion on impact of FDNS Site Visits for F-1 OPT & F-1 STEM OPT. | Emily Neumann & Rahul Reddy | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878674607328424446) [Instagram](https://www.instagram.com/p/DEwR0BdiON0/) |
+| 629 | Can I delay changing status to H-1B from F-1 STEM OPT to fully utilize the OPT period? | Rajiv S. Khanna | February 6th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1888618693749289206) [Instagram](https://www.instagram.com/p/DF25fl_C7Sx/) |
+| 638 | I have changed my status to H-1B from F-1 OPT and worked briefly for some period and then lost my job. Can I change my status back to F-1 OPT to utilize the remaining OPT period? | Rajiv S. Khanna | February 12th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1891695426228941192) [Instagram](https://www.instagram.com/p/DGMwlvxCekp/) |
 
 # F-1 CAP-GAP 
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
