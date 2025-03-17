@@ -3,6 +3,7 @@
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
 |:------|:------:|------:|------:|------:|
 | 30 | 10 Mistakes to avoid as an Employment-Based Visa Beneficiary. | Rebecca Chen | October 22nd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1855819260116730205) |
+| 642 | If Your First H-1B (obtained through CAP/lottery) is Revoked, What Happens to Later H-1Bs? | Emily Neumann & Rahul Reddy | February 18th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1892072056730137035) [Instagram](https://www.instagram.com/p/DGPancBC94B/) |
 | 506 | H-1B extension can normally be filed 180 days before expiration, is there a way to file it earlier, if yes, on what basis? Can H-4 and H-4 EAD be filed along with that H-1B? | Emily Neumann | November 26th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1862236262478094524) [Instagram](https://www.instagram.com/p/DC7cJB2i8i9/) |
 | 382 | What is Concurrent Employment on H-1B? What is Concurrent H-1B? | Emily Neumann | June 25th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858335659934539901) |
 | 335 | Switching from H-1B to H4 (and H-4 EAD) and back to H-1B in the future. Can I be a beneficiary of an I-140 petition while on H-4 status? | Rahul Reddy | July 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858310129994940670) |

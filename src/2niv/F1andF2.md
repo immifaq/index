@@ -10,6 +10,7 @@
 | 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
 | 563 | Implications of traveling on F-1 after transferring to a different university. | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682690658169156) [Instagram](https://www.instagram.com/p/DEwVht0i_c7/) |
 | 563 | Implications of traveling on F-1 after transferring to a different university. | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682690658169156) [Instagram](https://www.instagram.com/p/DEwVht0i_c7/) |
+| 660 | Will I be eligible for F-1 visa stamping at the consulate after graduating and while on OPT? | Rajiv S. Khanna | March 6th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901467981336433049) [Instagram](https://www.instagram.com/p/DHSNUP9CSzX/) |
 
 # F-2
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |

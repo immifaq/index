@@ -28,6 +28,7 @@
 | 430 | Do I need I-485 approval notice? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858746331495374946) |
 | 625 | Do I get an I-94 record when I enter USA on Advance Parole? | Steven Brown | February 4th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887384020826165678) [Instagram](https://www.instagram.com/p/DFuIBpfCaKf/) |
 | 636 | If USCIS says to use the Final Action Dates chart to file the AOS, what is the point of having a different Date of Filing chart? | Steven Brown | February 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1889562475802116480) [Instagram](https://www.instagram.com/p/DF9nWANCirf/) |
+| 658 | Should I maintain my H-1B status when I-485/AoS application is pending with USCIS? | Rajiv S. Khanna | March 6th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901467936025391565) [Instagram](https://www.instagram.com/p/DHSNEfnCBP7/) |
 
 ## Scenario Based
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |

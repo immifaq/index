@@ -24,6 +24,12 @@
 | 431 | I-94 has been expired and H-1B petition has been denied, can I change status to B-2 and change back to H-1B later? Why is it important to get a decision of extension application before I-94 expire? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755172719046729) |
 | 493 | My I-94 and H-1B visa expire March 2025, but my H-1B petition I-797 is valid until February 2026. Am I authorized to work on H-1B after March 2025? | Emily Neumann | November 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1861241247832170827) [Instagram](https://www.instagram.com/p/DC0WQepC_sw/) |
 | 520 | I-94 not updated as per the latest approved I-797A after my travel, what are my options? | Rajiv S. Khanna | December 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1868499342476337269) [Instagram](https://www.instagram.com/p/DDn857_ijO4/) |
+| 651 | When Do I Need to Check My I-94 Online? | Emily Neumann & Rahul Reddy | February 25th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894639659340144843) [Instagram](https://www.instagram.com/p/DGho0g1Cq_Z/) |
+| 657 | Extension has been applied after visa has been expired but before I-94 was expired. Does this impact the approval? | Emily Neumann | March 4th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1897158581969125644) [Instagram](https://www.instagram.com/p/DGzitypC0wL/) |
+| 663 | I-94 Expiring Early Due to Passport? Here’s How to Fix It! | Emily Neumann & Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485888229585181) [Instagram](https://www.instagram.com/p/DHSTs6ii-0X/) |
+| 664 | If I-94 expired because of passport expiry and requested for NPT (Nunc Pro Tunc) with H-1B extension, can USCIS still approve NPT (Nunc Pro Tunc) retroactively?
+ | Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485927018516938) [Instagram](https://www.instagram.com/p/DHST6IoiE3U/) |
+ | 665 | If I-94 expired because of passport expiry and requested for NPT (Nunc Pro Tunc) with H-1B extension, can USCIS issue NTA (Notice To Appear) in-case of a denial? | Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485967862595940) [Instagram](https://www.instagram.com/p/DHSVGXoCIzU/) |
 
 
 ## DUI/DWI
@@ -66,6 +72,7 @@
 | 433 | Grace Period - how many instances of grace period can I get? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858755424448606414) |
 | 540 | Impact of H-1B to B-1/B-2 CoS denial. | Rajiv S. Khanna | December 19th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873587485152055569) [Instagram](https://www.instagram.com/p/DEMGzH7iPWr/) |
 | 634 | Am I still eligible to file Change of Status to B-2 if I am nearing the end of 60 day grace period? | Steven Brown & Emily Neumann | February 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1889562575601303562) [Instagram](https://www.instagram.com/p/DF9l62rifiR/) |
+| 662 | Laid Off on H-1B - Is Converting to B-2 a Good Option? | Emily Neumann & Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485851529351440) [Instagram](https://www.instagram.com/p/DHSWTcBiv4u/) |
 
 
 ## Dependent Children Related
@@ -84,6 +91,7 @@
 | 438 | Should the dependent child on H-4 change to F-1 or pending AOS to continue their education if they turn 21 years? | Rahul Reddy | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860871179482890347) [Instagram](https://www.instagram.com/p/DCxuc75iXSy/) |
 | 444 | I and my spouse's Green Card is approved but my children have aged out, one of the child is on H-1B and another child is on F-1, can we file an I-130 in F2B category for both of them? | Rahul Reddy | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860871807043097048) [Instagram](https://www.instagram.com/p/DCxv46iCNm4/) |
 | 639 | What is the "Cohabiting Partners" provision for B-1/B-2 for close family members? | Rajiv S. Khanna | February 12th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1891700694861668731) [Instagram](https://www.instagram.com/p/DGMws3tCg84/) |
+| 650 | Options for parent's long-term stay in USA on B-2 visa if they are not eligible for derivative visa. | Rajiv S. Khanna | February 20th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894630830544158800) [Instagram](https://www.instagram.com/p/DGhoFXFC9rU/) |
 
 
 ## Automatic Visa Revalidation (AVR)

@@ -15,6 +15,9 @@
 | 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
 | 558 | Emily Neumann & Rahul Reddy's opinion on impact of FDNS Site Visits for F-1 OPT & F-1 STEM OPT. | Emily Neumann & Rahul Reddy | January 7th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878674607328424446) [Instagram](https://www.instagram.com/p/DEwR0BdiON0/) |
 | 613 | Can a person work as a 1099 employee on F-1 OPT or F-1 STEM OPT? | Rajiv S. Khanna | January 29th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887369464817049952) [Instagram](https://www.instagram.com/p/DFt__Rzir8N/) |
+| 648 | Can I volunteer with a Non-Profit while on F-1 OPT? | Rajiv S. Khanna | February 20th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894630787082854516) [Instagram](https://www.instagram.com/p/DGhnvhGibEb/) |
+| 649 | Maximum stay outside USA while on F-1 OPT, re-entry conditions and unemployment days calculation. | Rajiv S. Khanna | February 20th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894630805982339158) [Instagram](https://www.instagram.com/p/DGhn1C_i3VB/) |
+| 660 | Will I be eligible for F-1 visa stamping at the consulate after graduating and while on OPT? | Rajiv S. Khanna | March 6th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901467981336433049) [Instagram](https://www.instagram.com/p/DHSNUP9CSzX/) |
 
 
 # F-1 STEM OPT
