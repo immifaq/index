@@ -60,3 +60,4 @@
 |:------|:------:|------:|------:|------:|
 | 60 | When will student on F-1 become eligible for CPT (Circular Practical Training)? | Rajiv S. Khanna | October 16th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1856009059876352503) |
 | 549 | Rajiv S. Khanna's opinion on working remote from outside the country on F-1 (On-campus, OPT, & CPT). | Rajiv S. Khanna | December 21st, 2024 | [X (Twitter)](https://x.com/immifaq/status/1873601948957745537) [Instagram](https://www.instagram.com/p/DEMLBsTCbsI/) |
+| 679 | Emily Neumann & Rahul Reddy's opinion on Day 1 CPT Universities. | Emily Neumann & Rahul Reddy | April 1st, 2025 | [X (Twitter)](https://x.com/immifaq/status/1907669638797762870) [Instagram](https://www.instagram.com/p/DH-RYOuCGRL/) |

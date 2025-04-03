@@ -33,6 +33,7 @@
 | 606 | Pros and Cons of H-1B in CAP Exempt. | Rajiv S. Khanna | January 23rd, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887356338138755352) [Instagram](https://www.instagram.com/p/DFt7YLHCybT/) |
 | 621 | Can my employer file H-1B extension 180 days before expiry, in premium processing? and, if the H-1B extension is denied, can my employer file another extension petition again? | Rahul Reddy | February 4th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887383786804977798) [Instagram](https://www.instagram.com/p/DFuHcdICoRi/) |
 | 633 | Unpaid Leave on H-1B: Explained. | Steven Brown & Emily Neumann | February 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1889563286066147607) [Instagram](https://www.instagram.com/p/DF9kkQECRgv/) |
+| 680 | Are FDNS Site visits only done at Work Site? And What triggers a FDNS Site Visit? | Emily Neumann | April 1st, 2025 | [X (Twitter)](https://x.com/immifaq/status/1907669684247216614) [Instagram](https://www.instagram.com/p/DH-RfDBC7-y/) |
 
 
 ## Scenario Based

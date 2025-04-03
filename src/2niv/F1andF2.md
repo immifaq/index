@@ -11,6 +11,7 @@
 | 563 | Implications of traveling on F-1 after transferring to a different university. | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682690658169156) [Instagram](https://www.instagram.com/p/DEwVht0i_c7/) |
 | 563 | Implications of traveling on F-1 after transferring to a different university. | Rajiv S. Khanna | January 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1878682690658169156) [Instagram](https://www.instagram.com/p/DEwVht0i_c7/) |
 | 660 | Will I be eligible for F-1 visa stamping at the consulate after graduating and while on OPT? | Rajiv S. Khanna | March 6th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901467981336433049) [Instagram](https://www.instagram.com/p/DHSNUP9CSzX/) |
+| 676 | Why Is the U.S. Consulates Revoking F-1 Visas? What Students Must Know! | Emily Neumann & Rahul Reddy | April 1st, 2025 | [X (Twitter)](https://x.com/immifaq/status/1907666522585076103) [Instagram](https://www.instagram.com/p/DH-P0qeCRMI/) |
 
 # F-2
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |

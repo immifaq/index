@@ -72,6 +72,7 @@
 | 277 | PERM Labor Certification Processing Times - will it get any better in the coming months. | Emily Neumann | August 20th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857860845348233283) |
 | 322 | What are the qualifications required for LCA or PERM Prevailing Wage Levels (I, II, III or IV) purposes?  | Emily Neumann | August 6th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858027190970954038) |
 | 425 | What is the impact of PERM Labor Certification process when I change to a different client with the same employer? | Rahul Reddy | December 17th, 2023 | [X (Twitter)](https://x.com/immifaq/status/1858745899570053137) |
+| 670 | What is an RFI during the PERM process? Is it same as Audit? | Emily Neumann | March 18th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1903998897409712278) [Instagram](https://www.instagram.com/p/DHkMS_Pimua/) |
 
 
 ## Scenario Based
@@ -97,3 +98,4 @@
 | 617 | US-based Employer A filed PERM, but, I accepted offer to work for non-US based Employer B for couple of years. Will working for Employer B impact PERM and I-140 with Employer A? | Rajiv S. Khanna | January 30th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887376079339298992) [Instagram](https://www.instagram.com/p/DFuDx99iEFF/) |
 | 646 | What is BALCA Appeal for PERM Labor Certification Denial and how long does it take to process BALCA appeal? | Rajiv S. Khanna | February 19th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894628906549805395) [Instagram](https://www.instagram.com/p/DGhnIpiiFuL/) |
 | 647 | I am working for Company A and Company B filed for PERM which is pending a decision. What are options if the current H-1B max-out before PERM is approved while working with Company A? | Rajiv S. Khanna | February 19th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894628936438399455) [Instagram](https://www.instagram.com/p/DGhnTs1Czvz/) |
+| 674 | PERM Labor Filed in November 2024, But H-1B Expires in August 2025 – What Are the Options? | Emily Neumann & Rahul Reddy | March 25th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1907664420462850074) [Instagram](https://www.instagram.com/p/DH-O__XCVNR/) |

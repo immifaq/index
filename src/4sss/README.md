@@ -27,9 +27,8 @@
 | 651 | When Do I Need to Check My I-94 Online? | Emily Neumann & Rahul Reddy | February 25th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1894639659340144843) [Instagram](https://www.instagram.com/p/DGho0g1Cq_Z/) |
 | 657 | Extension has been applied after visa has been expired but before I-94 was expired. Does this impact the approval? | Emily Neumann | March 4th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1897158581969125644) [Instagram](https://www.instagram.com/p/DGzitypC0wL/) |
 | 663 | I-94 Expiring Early Due to Passport? Here’s How to Fix It! | Emily Neumann & Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485888229585181) [Instagram](https://www.instagram.com/p/DHSTs6ii-0X/) |
-| 664 | If I-94 expired because of passport expiry and requested for NPT (Nunc Pro Tunc) with H-1B extension, can USCIS still approve NPT (Nunc Pro Tunc) retroactively?
- | Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485927018516938) [Instagram](https://www.instagram.com/p/DHST6IoiE3U/) |
- | 665 | If I-94 expired because of passport expiry and requested for NPT (Nunc Pro Tunc) with H-1B extension, can USCIS issue NTA (Notice To Appear) in-case of a denial? | Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485967862595940) [Instagram](https://www.instagram.com/p/DHSVGXoCIzU/) |
+| 664 | If I-94 expired because of passport expiry and requested for NPT (Nunc Pro Tunc) with H-1B extension, can USCIS still approve NPT (Nunc Pro Tunc) retroactively? | Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485927018516938) [Instagram](https://www.instagram.com/p/DHST6IoiE3U/) |
+| 665 | If I-94 expired because of passport expiry and requested for NPT (Nunc Pro Tunc) with H-1B extension, can USCIS issue NTA (Notice To Appear) in-case of a denial? | Rahul Reddy | March 11th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1901485967862595940) [Instagram](https://www.instagram.com/p/DHSVGXoCIzU/) |
 
 
 ## DUI/DWI
@@ -42,6 +41,8 @@
 | 303 | Impact of DWI conviction on H-1B and H-4 Visa Stamping and Future Travel. | Rajiv S. Khanna | August 8th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857999611702460805) |
 | 308 | What will be the impact of a DWI conviction on present employment and/or new employment background check? | Rajiv S. Khanna | August 8th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857998726607872186) |
 | 418 | What is the H.R. 6976 (Protect Our Communities from DUIs Act) - deportation for individuals convicted in DUI/DWI. | Rahul Reddy | February 18th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1858737397401330118) |
+| 669 | Increase in F-1 OPT & F-1 STEM OPT denials due to DUI/DWI. | Emily Neumann | March 18th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1903996767311483133) [Instagram](https://www.instagram.com/p/DHkL3mEiKiS/) |
+| 677 | What the Minnesota F-1 Student DUI Case Means for All International Students. | Emily Neumann & Rahul Reddy | April 1st, 2025 | [X (Twitter)](https://x.com/immifaq/status/1907667251467071823) [Instagram](https://www.instagram.com/p/DH-QbomCv7p/) |
 
 ## Lay Off/Job Loss
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
