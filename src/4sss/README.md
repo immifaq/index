@@ -106,6 +106,7 @@
 | 226 | I have an expired H-4 visa stamp, changed to H-1B status in USA, can I travel to Canada/Mexico and return to USA on H-1B status with-in 30 days on the expired H-4 visa? | Rebecca Chen | September 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857669795971228153) |
 | 227 | Can I return back to USA without a visa stamping using Automatic Visa Revalidation (AVR), if I get a 221(g) in Canada/Mexico for a US Visa Application? | Rahul Reddy | September 3rd, 2024 | [X (Twitter)](https://x.com/immifaq/status/1857670000770769404) |
 | 624 | Does a closed-loop cruise trip count as a meaningful entry for Automatic Visa Revalidation (AVR) purposes? | Steven Brown | February 4th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887383938123112462) [Instagram](https://www.instagram.com/p/DFuH9m0CBfb/) |
+| 689 | Can I return back to USA using Automatic Visa Revalidation if my visa application is denied in at an US Consulate in Mexico or Canada? | Rahul Reddy | April 8th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1910544258274075087) [Instagram](https://www.instagram.com/p/DISyZ2wCcCy/) |
 
 ## Emergency Travel
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
