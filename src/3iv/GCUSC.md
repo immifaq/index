@@ -16,6 +16,7 @@
 | 444 | I and my spouse's Green Card is approved but my children have aged out, one of the child is on H-1B and another child is on F-1, can we file an I-130 in F2B category for both of them? | Rahul Reddy | November 5th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860871807043097048) [Instagram](https://www.instagram.com/p/DCxv46iCNm4/) |
 | 456 | Re-entering the USA on a Green Card after more than year stay abroad. | Rajiv S. Khanna | November 7th, 2024 | [X (Twitter)](https://x.com/immifaq/status/1860881201197658211) [Instagram](https://www.instagram.com/p/DCx06MBil58/) |
 | 616 | When can I change jobs/employer after my Green Card has been approved? Should I work for the same job/employer for at-least 6 months? | Rajiv S. Khanna | January 30th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1887376040881701298) [Instagram](https://www.instagram.com/p/DFuCe-kCT6C/) |
+| 699 | I received my Green Card, do I need to contact the social security administration to make any changes on my Social Security Card? | Emily Neumann | April 15th, 2025 | [X (Twitter)](https://x.com/immifaq/status/1912752400441503758) [Instagram](https://www.instagram.com/p/DIiaIY2iv3Q/) |
 
 # US Citizenship or Naturalization
 | Clip # | Description | Answering Attorney | Answered Date | Clip URL |
